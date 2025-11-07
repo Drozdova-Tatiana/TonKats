@@ -1,0 +1,13 @@
+{
+  "name": "TONcat #2: Стыдливые Лапки",
+  "description": "Серый котик, который стесняется и прячет мордочку. Но мурлычет как трактор.",
+  "image": "https://raw.githubusercontent.com/Drozdova-Tatiana/TonKats/main/Images/2cat.png",
+  "external_url": "https://github.com/Drozdova-Tatiana/TonKats",
+  "attributes": [
+    { "trait_type": "Фон", "value": "Чёрный" },
+    { "trait_type": "Окрас", "value": "Серый" },
+    { "trait_type": "Глаза", "value": "Закрыты" },
+    { "trait_type": "Поза", "value": "Стыдливая" },
+    { "trait_type": "Редкость", "value": "Редкий" }
+  ]
+}
