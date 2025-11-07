@@ -1,0 +1,20 @@
+{
+  "name": "Случайный кот",
+  "description": "Случайный кот в состоянии вечной загрузки.",
+  "image": "https://raw.githubusercontent.com/Drozdova-Tatiana/TonKats/main/Random/RandomCat.png",
+  "external_url": "https://github.com/Drozdova-Tatiana/TonKats",
+  "attributes": [
+    {
+      "trait_type": "Состояние",
+      "value": "Загрузка"
+    },
+    {
+      "trait_type": "Номер",
+      "value": "бесконечность"
+    },
+    {
+      "trait_type": "Редкость",
+      "value": "Бесконечная"
+    }
+  ]
+}
