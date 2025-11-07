@@ -1,0 +1,13 @@
+{
+  "name": "TONcat #1: Ленивый Усатик",
+  "description": "Обычный оранжево-белый кот, который любит греться на солнышке и наблюдать за вами.",
+  "image": "https://raw.githubusercontent.com/Drozdova-Tatiana/TonKats/main/Images/1cat.png",
+  "external_url": "https://github.com/Drozdova-Tatiana/TonKats",
+  "attributes": [
+    { "trait_type": "Фон", "value": "Чёрный" },
+    { "trait_type": "Окрас", "value": "Трёхцветный" },
+    { "trait_type": "Глаза", "value": "Чёрные" },
+    { "trait_type": "Выражение", "value": "Спокойное" },
+    { "trait_type": "Редкость", "value": "Обычный" }
+  ]
+}
