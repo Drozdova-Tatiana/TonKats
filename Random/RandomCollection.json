@@ -1,6 +1,6 @@
 {
   "name": "RandomCats: Случайные Котики",
-  "description": "Коллекция для демонстрации массового минта NFT. Задание 4.4.",
+  "description": "Коллекция для демонстрации случайного минта NFT. Задание 4.4.",
   "image": "https://raw.githubusercontent.com/Drozdova-Tatiana/TonKats/main/Random/Random/CatCollection2.png",
   "external_link": "https://github.com/Drozdova-Tatiana/TonKats/tree/main/Random",
   "seller_fee_basis_points": 550,
