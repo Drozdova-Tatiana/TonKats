@@ -1,0 +1,13 @@
+{
+  "name": "TONcat #3: Пухлая Лапка",
+  "description": "Кремовый котик с розовыми щёчками. Всегда машет в приветствие. Любит наблюдать за звёздами.",
+  "image": "https://raw.githubusercontent.com/Drozdova-Tatiana/TonKats/main/Images/3cat.png",
+  "external_url": "https://github.com/Drozdova-Tatiana/TonKats",
+  "attributes": [
+    { "trait_type": "Фон", "value": "Чёрный" },
+    { "trait_type": "Окрас", "value": "Кремовый" },
+    { "trait_type": "Щёчки", "value": "Розовые" },
+    { "trait_type": "Действие", "value": "Наблюдает за звёздами" },
+    { "trait_type": "Редкость", "value": "Эпический" }
+  ]
+}
