@@ -1,0 +1,8 @@
+{
+  "name": "TonKats: Лучшие и самые редкие котики",
+  "description": "Коллекция лучших и самых редких котиков, созданная в TON.",
+  "image": "https://raw.githubusercontent.com/Drozdova-Tatiana/TonKats/main/Images/cat.png",
+  "external_link": "https://github.com/Drozdova-Tatiana/TonKats",
+  "seller_fee_basis_points": 550,
+  "fee_recipient": "EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c"
+}
