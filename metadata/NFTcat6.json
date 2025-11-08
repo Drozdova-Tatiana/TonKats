@@ -1,0 +1,13 @@
+{
+  "name": "TONcat #6: Маленький котик",
+  "description": "Обычныйкотик, который любит греться на солнышке и играть.",
+  "image": "https://raw.githubusercontent.com/Drozdova-Tatiana/TonKats/main/Images/6cat.png",
+  "external_url": "https://github.com/Drozdova-Tatiana/TonKats",
+  "attributes": [
+    { "trait_type": "Фон", "value": "Чёрный" },
+    { "trait_type": "Окрас", "value": "Трёхцветный" },
+    { "trait_type": "Глаза", "value": "Чёрные" },
+    { "trait_type": "Выражение", "value": "Спокойное" },
+    { "trait_type": "Редкость", "value": "Обычный" }
+  ]
+}
