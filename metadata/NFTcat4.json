@@ -1,14 +1,13 @@
 {
-  name TONcat #4 Кошкинс,
-  description Мяу.,
-  image httpsraw.githubusercontent.comDrozdova-TatianaTonKatsmainImages4cat.png,
-  external_url httpsgithub.comDrozdova-TatianaTonKats,
-  attributes [
-    { trait_type Фон, value Чёрный },
-    { trait_type Окрас, value Кремовый },
-    { trait_type Щёчки, value Розовые },
-    { trait_type Действие, value Наблюдает за звёздами },
-    { trait_type Редкость, value Эпический }
+  "name": "TONcat #4: МЯу",
+  "description": "мямясм",
+  "image": "https://raw.githubusercontent.com/Drozdova-Tatiana/TonKats/main/Images/1cat.png",
+  "external_url": "https://github.com/Drozdova-Tatiana/TonKats",
+  "attributes": [
+    { "trait_type": "Фон", "value": "Чёрный" },
+    { "trait_type": "Окрас", "value": "Трёхцветный" },
+    { "trait_type": "Глаза", "value": "Чёрные" },
+    { "trait_type": "Выражение", "value": "Спокойное" },
+    { "trait_type": "Редкость", "value": "Обычный" }
   ]
-
 }
