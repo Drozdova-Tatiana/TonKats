@@ -1,6 +1,6 @@
 {
   "name": "TONcat #4: МЯу",
-  "description": "мямясм",
+  "description": "мямясм любит кушать",
   "image": "https://raw.githubusercontent.com/Drozdova-Tatiana/TonKats/main/Images/4cat.png",
   "external_url": "https://github.com/Drozdova-Tatiana/TonKats",
   "attributes": [
@@ -11,3 +11,4 @@
     { "trait_type": "Редкость", "value": "Обычный" }
   ]
 }
+
