@@ -1,0 +1,30 @@
+{
+  "name": "CatCoin",
+  "symbol": "CatC",
+  "description": "Оригинальный шокированный кот — вечная легенда.",
+  "image": "https://raw.githubusercontent.com/Drozdova-Tatiana/TonKats/main/lab5/CatCoin.png",
+  "decimals": "9",
+  "amount_style": "suffix",
+  "attributes": [
+    {
+      "trait_type": "Выражение",
+      "value": "Полный шок"
+    },
+    {
+      "trait_type": "Редкость",
+      "value": "Легендарный"
+    },
+    {
+      "trait_type": "Фон",
+      "value": "Золотой круг"
+    },
+    {
+      "trait_type": "Глаза",
+      "value": "Космическое удивление"
+    },
+    {
+      "trait_type": "Статус",
+      "value": "Король мемов"
+    }
+  ]
+}
